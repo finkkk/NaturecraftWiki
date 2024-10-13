@@ -8,8 +8,8 @@ hero:
   tagline: 指南旨在帮助有意进入自然世界冒险的新人冒险者。它可以帮助您更好的生存下去，并打造自己的温馨家园！
   actions:
     - theme: brand
-      text: 生存指南
-      link: /wiki
+      text: 进入指南
+      link: /install
     - theme: alt
       text: 服务器须知
       link: /server

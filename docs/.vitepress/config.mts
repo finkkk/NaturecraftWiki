@@ -9,9 +9,10 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       {
-        text: 'Wiki',
+        text: '新手指南',
         items: [
-          { text: '新手指南', link: '/wiki' },
+          { text: '游戏下载与安装', link: '/install' },
+          { text: '初始装备与物品说明', link: '/newkit' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
@@ -20,9 +21,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Wiki',
+        text: '新手指南',
         items: [
-          { text: '新手指南', link: '/wiki' },
+          { text: '游戏下载与安装', link: '/install' },
+          { text: '初始装备与物品说明', link: '/newkit' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
