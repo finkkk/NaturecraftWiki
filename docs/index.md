@@ -17,7 +17,7 @@ hero:
       text: 开发组与特别鸣谢
       link: /dev
 
-features:
+features:   
   - title: 全国最大的VR服务器
     details: 专注于VR体验的服务器，始于2022年。力图打造最好的MCVR体验！
   - title: 模组丰富，玩法多多
