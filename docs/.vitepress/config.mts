@@ -14,12 +14,16 @@ export default defineConfig({
       {
         text: '新手指南',
         items: [
-          { text: '游戏下载与安装', link: '/install' },
-          { text: '初始装备与物品说明', link: '/newkit' },
-          { text: '经济系统说明', link: '/eco' },
-          { text: '死亡与掉落机制说明', link: '/dead' },
-          { text: '体温与季节机制说明', link: '/season' },
-          { text: '领地保护机制说明', link: '/home' },
+          { text: '游戏安装与注册登录', link: '/install' },
+          { text: '初始装备与物品', link: '/newkit' },
+          { text: '语音系统', link: '/voice' },
+          { text: '经济系统', link: '/eco' },
+          { text: '死亡与掉落机制', link: '/dead' },
+          { text: '体温与季节机制', link: '/season' },
+          { text: '领地保护机制', link: '/home' },
+          { text: '主城与服务器公共区域', link: '/town' },
+          { text: 'VR按键映射说明', link: '/vrbtn' },
+          { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
@@ -30,12 +34,16 @@ export default defineConfig({
       {
         text: '新手指南',
         items: [
-          { text: '游戏下载与安装', link: '/install' },
-          { text: '初始装备与物品说明', link: '/newkit' },
-          { text: '经济系统说明', link: '/eco' },
-          { text: '死亡与掉落机制说明', link: '/dead' },
-          { text: '体温与季节机制说明', link: '/season' },
-          { text: '领地保护机制说明', link: '/home' },
+          { text: '游戏安装与注册登录', link: '/install' },
+          { text: '初始装备与物品', link: '/newkit' },
+          { text: '语音系统', link: '/voice' },
+          { text: '经济系统', link: '/eco' },
+          { text: '死亡与掉落机制', link: '/dead' },
+          { text: '体温与季节机制', link: '/season' },
+          { text: '领地保护机制', link: '/home' },
+          { text: '主城与服务器公共区域', link: '/town' },
+          { text: 'VR按键映射说明', link: '/vrbtn' },
+          { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
