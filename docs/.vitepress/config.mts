@@ -5,7 +5,14 @@ export default defineConfig({
   title: "NatureCraft 新手指南",
   description: "NatureCraft官方Wiki",
   head: [
-    ['link', { rel: 'icon', href: '/img/logoIcon.ico' }] // 引用 favicon.ico
+    ['link', { rel: 'icon', href: '/img/logoIcon.ico' }],
+    ['script', { async: "true", src: 'https://www.googletagmanager.com/gtag/js?id=G-BMW5VB9YCS' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-BMW5VB9YCS');
+    `]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
