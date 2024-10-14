@@ -6,7 +6,7 @@ export default defineConfig({
   description: "NatureCraft官方Wiki",
   head: [
     ['link', { rel: 'icon', href: '/img/logoIcon.ico' }],
-    ['script', { async: "true", src: 'https://www.googletagmanager.com/gtag/js?id=G-BMW5VB9YCS' }],
+    ['script', { async: 'true', src: 'https://www.googletagmanager.com/gtag/js?id=G-BMW5VB9YCS' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
