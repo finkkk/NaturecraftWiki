@@ -23,6 +23,8 @@ export default defineConfig({
           { text: '领地保护机制', link: '/home' },
           { text: '主城与服务器公共区域', link: '/town' },
           { text: 'VR按键映射说明', link: '/vrbtn' },
+          { text: 'PVP机制', link: '/pvp' },
+          { text: '传送机制', link: '/teleport' },
           { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
@@ -43,6 +45,8 @@ export default defineConfig({
           { text: '领地保护机制', link: '/home' },
           { text: '主城与服务器公共区域', link: '/town' },
           { text: 'VR按键映射说明', link: '/vrbtn' },
+          { text: 'PVP机制', link: '/pvp' },
+          { text: '传送机制', link: '/teleport' },
           { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }

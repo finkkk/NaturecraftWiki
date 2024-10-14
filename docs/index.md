@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 开发组与特别鸣谢
       link: /dev
+    - theme: alt
+      text: 服务器实况宣传视频
+      link: https://www.bilibili.com/video/BV1Aj2BYzEUL
 
 features:   
   - title: 全国最大的VR服务器
