@@ -32,6 +32,7 @@ export default defineConfig({
           { text: 'VR按键映射说明', link: '/vrbtn' },
           { text: 'PVP机制', link: '/pvp' },
           { text: '传送机制', link: '/teleport' },
+          { text: '光影设置说明', link: '/shader'},
           { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
@@ -54,6 +55,7 @@ export default defineConfig({
           { text: 'VR按键映射说明', link: '/vrbtn' },
           { text: 'PVP机制', link: '/pvp' },
           { text: '传送机制', link: '/teleport' },
+          { text: '光影设置说明', link: '/shader'},
           { text: 'MC游玩常识', link: '/know' },
           { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
