@@ -13,6 +13,7 @@
 <font color = 'orange'>技术部</font>：  剩饭<br><br>
 <font color = 'orange'>保安部</font>：  ThuA02童话<br><br>
 <font color = 'orange'>策划部</font>：  KUROSAWA_YU黑泽优<br><br>
+<font color = 'orange'>美术部</font>：  M1ka米卡<br><br>
 
 ## 特别鸣谢
 
