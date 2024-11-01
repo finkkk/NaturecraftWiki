@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: '新手指南',
         items: [
+          { text: '服务器须知', link: '/server' },
           { text: '游戏安装与注册登录', link: '/install' },
           { text: '初始装备与物品', link: '/newkit' },
           { text: '语音系统', link: '/voice' },
@@ -37,7 +38,6 @@ export default defineConfig({
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
-          { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
       }
@@ -47,6 +47,7 @@ export default defineConfig({
       {
         text: '新手指南',
         items: [
+          { text: '服务器须知', link: '/server' },
           { text: '游戏安装与注册登录', link: '/install' },
           { text: '初始装备与物品', link: '/newkit' },
           { text: '语音系统', link: '/voice' },
@@ -63,7 +64,6 @@ export default defineConfig({
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
-          { text: '服务器须知', link: '/server' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
       }
