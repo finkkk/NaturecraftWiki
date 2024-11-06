@@ -9,9 +9,6 @@ hero:
   actions:
     - theme: brand
       text: 进入指南
-      link: /install
-    - theme: alt
-      text: 服务器须知
       link: /server
     - theme: alt
       text: 开发组与特别鸣谢
