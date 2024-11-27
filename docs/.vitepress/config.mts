@@ -36,9 +36,11 @@ export default defineConfig({
           { text: '宠物拾取机制', link: '/pet' },
           { text: '光影设置说明', link: '/shader'},
           { text: 'MC游玩常识', link: '/know' },
+          { text: '优秀玩家建筑展示', link: '/building' },
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
+          { text: '常见问题解答', link: '/qna' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
       }
@@ -63,9 +65,11 @@ export default defineConfig({
           { text: '宠物拾取机制', link: '/pet' },
           { text: '光影设置说明', link: '/shader'},
           { text: 'MC游玩常识', link: '/know' },
+          { text: '优秀玩家建筑展示', link: '/building' },
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
+          { text: '常见问题解答', link: '/qna' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
       }
