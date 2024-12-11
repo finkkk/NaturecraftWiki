@@ -40,6 +40,7 @@ export default defineConfig({
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
+          { text: 'YSM模组说明', link: '/ysm' },
           { text: '常见问题解答', link: '/qna' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
@@ -69,6 +70,7 @@ export default defineConfig({
           { text: '服务器已禁物品列表', link: '/ban' },
           { text: '服务器已知BUG列表', link: '/bugs' },
           { text: '服务器模组列表', link: '/mods' },
+          { text: 'YSM模组说明', link: '/ysm' },
           { text: '常见问题解答', link: '/qna' },
           { text: '开发者与特别鸣谢', link: '/dev' }
         ]
