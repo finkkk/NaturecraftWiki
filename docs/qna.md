@@ -41,11 +41,15 @@ A:此时PCL启动器正常情况下会提示是否自动安装Java，可尝试�
 找到 Minecraft 或 Java 的路径（同样是 javaw.exe）。
 设置为 高性能模式。
 
-1. <font color = 'blue'>游玩三周目服务器的VR模式大概需要什么性能？</font>
+2. <font color = 'blue'>游玩三周目服务器的VR模式大概需要什么性能？</font>
 
 首先您的电脑需要达到最低VR配置要求。这与MC无关，steamVR最低配置要求一般是GTX1060。
 
 若您的显卡低于3060，不推荐在VR模式下使用光影。若在此以上，推荐使用VR低配光影。
+
+3. <font color = 'blue'>若启动VR模式发现手臂上的GUI物品栏消失了怎么办？</font>
+
+请去F:\Games\MC\nature\[v1.9.3] NatureCraft 3\.minecraft\versions\naturecraft-v1.9.3\mods路径下删除[现代化 UI] ModernUI-Forge-1.20.1-3.11.0.1-universal.jar文件即可（如果搜不到就是已被删除）
 
 ## 关于服务器运营
 
