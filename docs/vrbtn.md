@@ -32,10 +32,12 @@
 3.打开world map：打开世界地图<br>
 4.打开背包：是指打开使用皮革制作的精妙背包模组系列背包。PC默认按键为B<br>
 5.打开聊天框：聊天、输入指令、登录注册需要在聊天框内输入。<br>
-6.open wallet：打开钱包。可管理自己的随身钱财。详见[经济系统](/eco.md)。<br>
+6.打开钱包：打开钱包。可管理自己的随身钱财。详见[经济系统](/eco.md)。<br>
 7.拾取：宠物拾取。详见[宠物拾取机制](/pet.md)<br>
-8.Access Portalable Terminal：打开便捷交易终端，详见[经济系统](/eco.md)。<br>
-9.Access Portalable ATM：打开便捷ATM存取款机,详见[经济系统](/eco.md)。<br>
+8.打开便捷交易终端：打开便捷交易终端，详见[经济系统](/eco.md)。<br>
+9.打开便捷ATM：打开便捷ATM存取款机,详见[经济系统](/eco.md)。<br>
 10.离开载具：离开飞机等载具。<br>
+11.quick commond1：打开PVP。<br>
+12.quick commond2：关闭PVP。<br>
 
 ![加载图片](/img/lunpan.webp)
