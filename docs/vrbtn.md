@@ -40,4 +40,4 @@
 11.quick commond1：打开PVP。<br>
 12.quick commond2：关闭PVP。<br>
 
-![加载图片](/img/lunpan.webp)
+![加载图片](/img/123.webp)
