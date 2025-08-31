@@ -12,9 +12,9 @@
 
 也可以使用此处的网盘链接(当前客户端最新版本为v1.9.8fix)：
 
-百度网盘：https://pan.baidu.com/s/1Mb25_ZUHWZ4S00I5fjjX4Q?pwd=2333 提取码: 2333
+百度网盘：https://pan.baidu.com/s/1SdoN-l6CRzT5urdExwwC7g?pwd=2333 提取码: 2333
 
-123网盘：https://www.123865.com/s/KRq5Vv-eRyAH?pwd=2333 提取码:2333
+123网盘：https://www.123865.com/s/KRq5Vv-jRyAH?pwd=2333 提取码:2333
 
 ## 解压客户端
 
