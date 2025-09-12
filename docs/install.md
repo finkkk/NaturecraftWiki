@@ -10,11 +10,11 @@
 
 您可以单击右上角主页按钮前往我们的服务器官网[Naturecraft.cn](https://www.naturecraft.cn)进入其中的下载板块，或者加入社群使用社群内的群文件, 选择您想要的方式下载完整客户端。
 
-也可以使用此处的网盘链接(当前客户端最新版本为v1.9.8fix)：
+也可以使用此处的网盘链接(当前客户端最新版本为v1.9.9)：
 
-百度网盘：https://pan.baidu.com/s/1SdoN-l6CRzT5urdExwwC7g?pwd=2333 提取码: 2333
+百度网盘：https://pan.baidu.com/s/1MKg1m4aGve_hrEz4O_VhkA?pwd=2333 提取码: 2333
 
-123网盘：https://www.123865.com/s/KRq5Vv-jRyAH?pwd=2333 提取码:2333
+123网盘：https://www.123865.com/s/KRq5Vv-v7yAH?pwd=2333 提取码:2333
 
 ## 解压客户端
 
